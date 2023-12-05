@@ -1,0 +1,53 @@
+[
+    {
+      "firstName": "Bert",
+      "lastName": "O'brian",
+      "userName": "Pigeonman",
+      "password": "Pla1n0@m3al",
+      "address": "114 sesame st. apt 35",
+      "email": "b.obrian@sesameemail.net",
+      "imageUrl": "https://static.wikia.nocookie.net/muppet/images/c/ce/Bert1971-1976version.jpg",
+      "favoritFood": "oatmeal"
+    },
+    {
+        "firstName": "Ernie",
+        "lastName": "McGinnis",
+        "userName": "ErnieM",
+        "password": "B00gi3W00gi3Sheep",
+        "address": "114 sesame st. apt 35",
+        "email": "e.mcginnis@sesameemail.net",
+        "imageUrl": "https://static.wikia.nocookie.net/muppet/images/4/4e/Ernie.nose.jpg",
+        "favoritFood": "pizza"
+      },
+      {
+        "firstName": "Big Bird",
+        "lastName": "Kowalski",
+        "userName": "BigBird",
+        "password": "SnuffyBFF!",
+        "address": "116 sesame st.",
+        "email": "bb.kowalski@sesameemail.net",
+        "imageUrl": "https://static.wikia.nocookie.net/muppet/images/1/15/Followthatbirdie84.jpg",
+        "favoritFood": "birdseed"
+      },
+      {
+        "firstName": "Oscar",
+        "lastName": "The Grouch",
+        "userName": "TrashMan",
+        "password": "I<3Slimmy!",
+        "address": "the trash cans, sesame st.",
+        "email": "o.grouch@sesameemail.net",
+        "imageUrl": "https://static.wikia.nocookie.net/muppet/images/6/60/OscarS6.jpg",
+        "favoritFood": "bruised bananas"
+      },
+      {
+        "firstName": "Sid",
+        "lastName": "Cookie Monster",
+        "userName": "Cookie",
+        "password": "i<3COOK13s!",
+        "address": "114 sesame st. apt 12",
+        "email": "s.cookie@sesameemail.net",
+        "imageUrl": "https://static.wikia.nocookie.net/muppet/images/c/cc/Cookie_monster_puppet.jpg",
+        "favoritFood": "Cookies"
+      }
+    
+]
