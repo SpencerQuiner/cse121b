@@ -13,7 +13,8 @@ function CheckCredentials(members)
 /*async function load data from JSON file*/
 const getMembers = async () => {
     
-    const response = await fetch('https://spencerquiner.github.io/cse121b/Final_project/resources/members.json', {mode: "no-cors"});
+    const response = await fetch('https://spencerquiner.github.io/cse121b/Final_project/resources/members.json');
+    console.log(response);
     memberList = await response.json();
     console.log(memberList);
 }
