@@ -24,7 +24,7 @@
     <main id="gridly">
         <h1>Final Project:</h1>
         <div id ="login">
-            <form>
+            <form id ="loginForm">
                 <input id="usrName" type="text" title="username" placeholder="username" />
                 <input id="passWrd" type="password" title="username" placeholder="password" autocomplete="off"/>
                 <button id="loginBtn" type="button" class="btn">Login</button>
@@ -32,7 +32,25 @@
 
         </div>
         <div id="userData"></div>
-        <div id="register"></div>
+        <div id="register">
+            <form id="registrationForm">
+                <label>First Name</label>
+                <input id='newUsrFName' type="text" placeholder="First Name">
+                <label>Last Name</label>
+                <input id='newUsrLName' type="text" placeholder="Last Name">
+                <label>User Name</label>
+                <input id='new_UsrName' type="text" placeholder="Username">
+                <label>Password</label>
+                <input id='newPassword' type="text" placeholder="Password">
+                <label>Email</label>
+                <input id='newEmail' type="text" placeholder="johndoe@emailaddress.com">
+                <label>Address</label>
+                <input id='newAddress' type="text" placeholder="Address">
+                <label>Favorite Food</label>
+                <input id="newFood" type="text" placeholder="Favorite Food">
+                <button id="registrationBtn" type="button" class="btn">Register Now</button>
+            </form>
+        </div>
         
     
     </main>
